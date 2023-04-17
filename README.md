@@ -23,9 +23,9 @@
 <div style="margin-top: 150px">
 
 
-- I currently work as a front-end web developer for Woolly Rhino, a digital agency that specialisis in React based websites for Individual's and SME's. 
+- I currently work as a front-end web developer for Woolly Rhino, a digital agency that specialises in React based websites for Individual's and SME's. 
 
-- When I'm not coding I like looking at things that aren't on a screen - mainly artworks and green spaces. 
+
 </br>
 </br>
 ##
@@ -37,5 +37,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- When I'm not coding I like to seek out inspiration away from the screen and enjoy spending time at art exhibitions and exploring the green spaces in my local surrounds. 
 </div>
