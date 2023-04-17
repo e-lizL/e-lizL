@@ -30,5 +30,5 @@
 </br>
 ##
 
-- When I'm not coding I like to seek out inspiration away from the screen. I enjoy spending time at art exhibitions and exploring the green spaces in my local surrounds. 
+- When I'm not coding I like to seek out inspiration away from the screen. I enjoy looking at art and exploring green spaces. 
 </div>
