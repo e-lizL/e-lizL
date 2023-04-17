@@ -1,9 +1,26 @@
-### Hi there 👋
 
-<!--
-**e-lizL/e-lizL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+<header style="text-align: center"> 
+
+  <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=wave&color=gradient&height=400"/>
+
+  <div style="margin-top: -180px">
+    <h1 style="font-weight: 600">Hello, I'm Elizabeth</h1>
+    <h4 style="margin-top: -15px">A Front-End Developer in Bristol, UK<h3>
+  </div>
+  
+
+</header>
+
+
+
+
+
+
+
+<div style="margin-top: 150px">
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
